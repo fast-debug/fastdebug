@@ -1,1 +1,1 @@
-Trying to contact the owner of the https://github.com/fastdebug Github account (Sergey Kurysko), please contact me at info@fastdebug.io, thanks!
+Please use this repository to report any issues found while using FastDebug. Just go to the `Issues` tab and create a new issue. Please make sure to add as much information as possible, including FastDebug version PHP version and Operating System. Thanks!
